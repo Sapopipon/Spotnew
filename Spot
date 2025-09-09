@@ -6,10 +6,6 @@
     "subtitle": "Reproducir tu música de Spotify",
     "iconUrl": "https://files.catbox.moe/212opw.png",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
-  },
-  {
-    "id": "echodown",
-    "type": "misc",
     "name": "Downloader",
     "subtitle": "Descarga tu música",
     "iconUrl": "https://cdn-images.dzcdn.net/images/cover/00e78b6d932527f79d2df3f4f694510b/264x264-000000-80-0-0.jpg",
