@@ -5,7 +5,7 @@
     "name": "Spotify",
     "subtitle": "Reproducir tu música de Spotify",
     "iconUrl": "https://files.catbox.moe/212opw.png",
-    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
     "updateUrl": "https://api.github.com/repos/LuftVerbot/echo-echodown-extension/releases"
+    "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
   }
 ]
