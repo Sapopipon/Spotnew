@@ -1,9 +1,9 @@
 [
-  {
+ {
     "id": "spotify",
     "type": "music",
     "name": "Spotify",
-    "subtitle": "Reproduce música de Spotify",
+    "subtitle": "Play musica de Spotify",
     "iconUrl": "https://files.catbox.moe/212opw.png",
     "updateUrl": "https://api.github.com/repos/brahmkshatriya/echo-spotify-extension/releases"
   },
